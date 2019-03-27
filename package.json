@@ -1,0 +1,24 @@
+{
+  "name": "whq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "whq"
+  },
+  "repository": {
+    "type": "git",
+    "url": "whq"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "whq",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
